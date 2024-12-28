@@ -23,10 +23,15 @@ o	Campaign Channel ROI: PPC and referral channels had the best ROI, each contrib
 o	Campaign Type ROI: Conversion campaigns led with 27.43%, followed by awareness at 25.74%.
 3. Gender Analysis: Female customers contributed more to profits (0.39B) than males (0.25B). Similarly, females accounted for a higher number of previous purchases (21.7K vs. 14.2K).
 4. Previous Purchases: Referral channels saw the most previous purchases (7.7K), with other channels close behind.
+![image](https://github.com/user-attachments/assets/c8484344-e325-4093-9019-f8c3d5e29e29)
+
 
 # Discussion
 Interpretation:
+
 •	PPC and referral channels consistently perform well in terms of both profit and ROI, indicating their strategic importance.
 •	Conversion campaigns are the most effective in driving income and ROI, suggesting a strong focus on these campaigns could enhance revenue.
 •	Gender-based insights show that targeting female customers may yield higher returns, as they demonstrate stronger purchasing behavior and profitability.
+
+
 
