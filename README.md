@@ -24,9 +24,11 @@ o	Campaign Type ROI: Conversion campaigns led with 27.43%, followed by awareness
 3. Gender Analysis: Female customers contributed more to profits (0.39B) than males (0.25B). Similarly, females accounted for a higher number of previous purchases (21.7K vs. 14.2K).
 4. Previous Purchases: Referral channels saw the most previous purchases (7.7K), with other channels close behind.
 
+Showing the image below
 ![image](https://github.com/user-attachments/assets/c3a8b0f7-d2b0-44e0-bd51-9f60d0ee7b06)
+![image](https://github.com/user-attachments/assets/f28e6f54-4ba1-44bf-bbd3-6e9f0d1ace7e)
 
-![image](https://github.com/user-attachments/assets/b2857103-a65b-43a8-8368-57fe92618ef0)
+
 
 # Discussion
 Interpretation:
